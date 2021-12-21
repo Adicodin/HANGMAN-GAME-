@@ -1,0 +1,19 @@
+RULES
+In this game there will be a word hidden with blanks related to Physics, Chemistry and Computer Science.
+You have to guess letters to guess the word correctly. You have 10 lives. You have to guess the word and
+you can use a hint but remember that hint will activate only if there are 3 or less lives left and if you
+ask for hint your one life will be lost.
+
+There are two ways to play this game:
+
+DEFAULT
+In this, you will get the default words which are
+already present in the game.
+
+MULTIUSER
+In this, multiple players can play the game. One can enter
+the word which he/she wants the other one to guess and the
+other player can guess the word entered by the player one.
+
+So to play the multiuser game, click on the multiuser button. If you want to play the normal game, click on
+the default game button.
